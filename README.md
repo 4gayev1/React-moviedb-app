@@ -1,4 +1,5 @@
-Live site:https://react-movietmdb-app.netlify.app
+Live site:https://react-movietmdb-app.netlify.app <br>
+USED API:https://developers.themoviedb.org/3/getting-started/introduction
 
 
 ![preview1](https://user-images.githubusercontent.com/74317863/131261769-468b3ab3-c995-4295-9493-cb58c1ac32df.png)
